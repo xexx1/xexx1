@@ -3,7 +3,7 @@ Hi 👋 My name is Jods
 
 Mr.Sitthipol Ampaipis
 
-* 🌍  I'm based in NAkhon Phathom
+* 🌍  I'm based in Nakhon Phathom
 * ✉️  You can contact me at [fam8252835@gmail.com](mailto:fam8252835@gmail.com)
 * 🧠  I'm learning React, TailwinsCSS ,
 * 🤝  I'm open to collaborating on AI
